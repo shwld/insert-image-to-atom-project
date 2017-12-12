@@ -7,12 +7,10 @@
   "activationCommands": {
     "atom-workspace": "mdnote:toggle"
   },
-  "repository": "https://github.com/atom/mdnote",
+  "repository": "https://github.com/shwld/mdnote-for-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-    "mathjax": "^2.7.2"
-  }
+  "dependencies": {}
 }
