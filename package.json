@@ -3,10 +3,13 @@
   "main": "./lib/mdnote",
   "version": "0.0.9",
   "description": "A short description of your package",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "mdnote:toggle"
-  },
+  "keywords": [
+    "preview",
+    "clipboard",
+    "image",
+    "markdown",
+    "inline"
+  ],
   "repository": "https://github.com/shwld/mdnote-for-atom",
   "license": "MIT",
   "engines": {
