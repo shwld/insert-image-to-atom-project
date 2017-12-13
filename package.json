@@ -1,6 +1,6 @@
 {
-  "name": "mdnote",
-  "main": "./lib/mdnote",
+  "name": "insert-image-to-atom-project",
+  "main": "./lib/insert-image-to-atom-project",
   "version": "0.0.10",
   "description": "A short description of your package",
   "keywords": [
@@ -10,7 +10,7 @@
     "markdown",
     "inline"
   ],
-  "repository": "https://github.com/shwld/mdnote-for-atom",
+  "repository": "https://github.com/shwld/insert-image-to-atom-project",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
