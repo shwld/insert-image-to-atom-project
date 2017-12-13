@@ -4,8 +4,6 @@ When you paste an image on the clipboard, the img path is inserted.
 
 You can set save destination and wwwroot for each project.
 
-![](/assets/readme.gif)
-
 ## Grammar supporting snippet insertion
 - Markdown
 - HTML
@@ -13,6 +11,10 @@ You can set save destination and wwwroot for each project.
 For other grammers, insert image-path.
 
 Add snippet to other grammar Pull-Request wanted.
+
+## Inline preview for markdown grammer
+
+![](/assets/readme.gif)
 
 ## Settings
 
