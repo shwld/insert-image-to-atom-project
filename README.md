@@ -22,10 +22,8 @@ Add snippet to other grammar Pull-Request wanted.
 
 ```json
 {
-  "images": {
-    "storePath": "/images",
-    "wwwRoot": "/public"
-  }
+  "storePath": "/images",
+  "wwwRoot": "/public"
 }
 ```
 
