@@ -10,8 +10,6 @@ You can set save destination and wwwroot for each project.
 
 For other grammers, insert image-path.
 
-Add snippet to other grammar Pull-Request wanted.
-
 ## Inline preview for markdown grammer
 
 ![](/assets/readme.gif)
@@ -24,8 +22,21 @@ Add snippet to other grammar Pull-Request wanted.
 {
   "storePath": "/images",
   "wwwRoot": "/public"
+  "grammars": {
+    "Markdown": {
+      "url": "![](${url})"
+    },
+    "GitHub Markdown": {
+      "url": "![](${url})"
+    },
+    "HTML": {
+      "url": "<img src=\"${url}\" alt=\"\">"
+    }
+  }
 }
 ```
 
 - storePath: Image save destination
 - wwwRoot  : Route of relative path
+- grammars : Grammer settings
+  - url : Customize pasting style, will insert image path to ${url}
