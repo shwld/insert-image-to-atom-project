@@ -1,7 +1,7 @@
 {
   "name": "insert-image-to-atom-project",
   "main": "./lib/insert-image-to-atom-project",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "When you paste an image on the clipboard, the img path is inserted. You can set save destination and wwwroot for each project.",
   "keywords": [
     "preview",
